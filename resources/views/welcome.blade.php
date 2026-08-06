@@ -447,7 +447,6 @@
     </li>
 @endauth
   </header>
-
   <main>
     @if(session('success'))
       <div class="alert alert-success alert-dismissible fade show container" role="alert" style="position: fixed; top: 100px; right: 20px; z-index: 9999; width: auto; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
